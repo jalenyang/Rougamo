@@ -1,0 +1,6 @@
+com\rougamo\HackSystem.class
+com\rougamo\JavaClassExecuter.class
+com\rougamo\HotSwapClassLoader.class
+com\rougamo\ClassModifier.class
+com\rougamo\ByteUtils.class
+com\rougamo\TestClass.class
