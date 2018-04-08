@@ -1,1 +1,2 @@
-com\rougamo\cert\Application.class
+com\rougamo\jcert\Application.class
+com\rougamo\jcert\Lock.class

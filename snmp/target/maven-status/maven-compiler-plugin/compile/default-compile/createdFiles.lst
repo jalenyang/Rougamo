@@ -1,0 +1,6 @@
+com\rougamo\snmp\SnmpData$1.class
+com\rougamo\snmp\SnmpTest.class
+com\rougamo\snmp\SnmpData$2.class
+com\rougamo\snmp\SnmpData.class
+com\rougamo\snmp\MultiThreadedTrapReceiver.class
+com\rougamo\snmp\SnmpUtilSendTrap.class

@@ -1,0 +1,8 @@
+com\rougamo\mybatis\mapper\StudentMapper.class
+com\rougamo\mybatis\Application.class
+com\rougamo\mybatis\controller\TestController.class
+com\rougamo\mybatis\mapper\TeacherMappber.class
+com\rougamo\mybatis\mapper\TeacherMappber$TeacherProvider$1.class
+com\rougamo\mybatis\mapper\TeacherMappber$TeacherProvider.class
+com\rougamo\mybatis\pojo\Student.class
+com\rougamo\mybatis\pojo\Teacher.class
