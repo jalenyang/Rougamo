@@ -1,4 +1,4 @@
-package com.rougamo.mybatis.pojo;
+package com.pork.mybatis.pojo;
 
 public class Student {
     private Integer id;

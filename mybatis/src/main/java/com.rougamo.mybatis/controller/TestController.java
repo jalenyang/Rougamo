@@ -1,9 +1,9 @@
-package com.rougamo.mybatis.controller;
+package com.pork.mybatis.controller;
 
-import com.rougamo.mybatis.mapper.StudentMapper;
-import com.rougamo.mybatis.mapper.TeacherMappber;
-import com.rougamo.mybatis.pojo.Student;
-import com.rougamo.mybatis.pojo.Teacher;
+import com.pork.mybatis.mapper.StudentMapper;
+import com.pork.mybatis.mapper.TeacherMappber;
+import com.pork.mybatis.pojo.Student;
+import com.pork.mybatis.pojo.Teacher;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;

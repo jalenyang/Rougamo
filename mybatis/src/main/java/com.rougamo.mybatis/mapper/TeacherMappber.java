@@ -1,7 +1,7 @@
-package com.rougamo.mybatis.mapper;
+package com.pork.mybatis.mapper;
 
 
-import com.rougamo.mybatis.pojo.Teacher;
+import com.pork.mybatis.pojo.Teacher;
 import org.apache.ibatis.annotations.*;
 import org.apache.ibatis.jdbc.SQL;
 

@@ -1,4 +1,4 @@
-package com.rougamo.rest;
+package com.pork.rest;
 
 import org.apache.http.auth.AuthScope;
 import org.apache.http.auth.UsernamePasswordCredentials;

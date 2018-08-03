@@ -1,4 +1,4 @@
-package com.rougamo.mybatis;
+package com.pork.mybatis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

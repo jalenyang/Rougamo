@@ -17,6 +17,8 @@
         <module>demo</module>
         <module>jvm</module>
         <module>netty</module>
+        <module>http</module>
+        <module>java-agent</module>
     </modules>
     <build>
         <plugins>
